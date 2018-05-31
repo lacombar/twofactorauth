@@ -236,6 +236,14 @@ websites:
       software: Yes
       doc: https://github.com/2factorauth/twofactorauth/pull/2321#issuecomment-273971890
 
+    - name: Sfox
+      url: https://sfox.com/
+      img: sfox.png
+      tfa: Yes
+      software: Yes
+      hardware: Yes
+      u2f: Yes
+
     - name: Uphold
       url: https://uphold.com/
       img: uphold.png
